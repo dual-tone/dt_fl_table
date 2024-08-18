@@ -33,7 +33,8 @@ dependencies:
 ```
 
 ## Usage
-Check example for more details.
+Check [https://dt-fl-table.oss.dualtone.dev](example) for more details.
+
 ### Basic Setup
 Import the dependency.
 ```dart
