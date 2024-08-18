@@ -3,10 +3,10 @@ name: Create and publish image for iPaark API
 
 on:
   push:
-    branches:
-      - develop
-    tags:
-      - '*'
+#    branches:
+#      - develop
+#    tags:
+#      - '*'
 jobs:
 
   build-and-push-image:
