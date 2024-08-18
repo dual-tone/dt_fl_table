@@ -1,5 +1,5 @@
 #
-name: Create and publish image for iPaark API
+name: Create and publish dt_fl_table image
 
 on:
   push:
@@ -28,7 +28,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: teamifour/ipk-api
+          images: devdualtone/dt_fl_table
           tags: |
             type=ref,event=branch
             type=semver,pattern={{version}}
