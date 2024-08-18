@@ -3,10 +3,10 @@ name: Create and publish dt_fl_table image
 
 on:
   push:
-#    branches:
-#      - develop
-#    tags:
-#      - '*'
+    branches:
+      - develop
+    tags:
+      - '*'
 jobs:
 
   build-and-push-image:
