@@ -1,0 +1,21 @@
+name: dt_fl_table
+description: "Flutter table widget: Highly customizable and easy to use."
+version: 0.0.1
+homepage: "https://dualtone.dev"
+repository: "https://github.com/dual-tone/dt_fl_table"
+publish_to:
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
