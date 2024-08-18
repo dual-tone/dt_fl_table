@@ -1,6 +1,6 @@
 name: dt_fl_table
 description: "Flutter table widget: Highly customizable and easy to use."
-version: 0.0.1
+version: 0.1.0
 homepage: "https://dualtone.dev"
 repository: "https://github.com/dual-tone/dt_fl_table"
 publish_to:
