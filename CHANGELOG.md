@@ -1,3 +1,9 @@
+## 0.1.1 (2024-08-18)
+
+### Refactor
+
+- documentation endpoint added
+
 ## 0.1.0 (2024-08-18)
 
 ### Feat
